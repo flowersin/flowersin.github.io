@@ -4,6 +4,12 @@ body {
 	font-family: "Courier New", monospace;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 a:link {
 	color: #fa73ff;
 }
@@ -13,6 +19,11 @@ a:visited {
 }
 
 h2 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h3 {
 	text-align: center;
 	font-family: sans-serif;
 }
