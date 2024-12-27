@@ -7,7 +7,7 @@ categories: Meta Web-Dev
 
 # Why?  
 
-With this post going live, my website [ems7d4.com](https://ems7d4.com) has been completely re-built from the ground up.  Previously, I had written every page by hand in the spirit of web1.0, but this was tedious and got in the way of sharing what I wanted to share.  With the update I hope to add content with much greater frequency and ease, and shift the website to a method for sharing information on my other projects rather than a project iself.
+With this post going live, my website [ems7d4.com](ems7d4.com) has been completely re-built from the ground up.  Previously, I had written every page by hand in the spirit of web1.0, but this was tedious and got in the way of sharing what I wanted to share.  With the update I hope to add content with much greater frequency and ease, and shift the website to a method for sharing information on my other projects rather than a project iself.
 
 # How?
 Previously, my website consisted of a handful of html files that lived in [my github pages repository](https://github.com/flowersin/flowersin.github.io).
