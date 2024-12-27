@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "ems7d4.com"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -216,6 +216,7 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+  - "CNAME"
 
 jekyll-archives:
   enabled: [categories, tags]
