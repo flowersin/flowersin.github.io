@@ -20,7 +20,7 @@ title: Ellie's Website # the main title
 tagline: Hello World! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+    Ellie Schaefer's website personal website, where she posts content about projects and anything else that interests her.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
