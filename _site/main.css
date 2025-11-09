@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}
+body {
+    background-color: black;
+    color: white;
+}
+
+.content {
+    margin-left: 20%;
+    margin-right: 20%;
+}
