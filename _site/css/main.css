@@ -7,9 +7,29 @@
 body {
     background-color: black;
     color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.1em;
 }
 
 .content {
-    margin-left: 20%;
-    margin-right: 20%;
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+strong {
+    font-weight: bolder;
 }

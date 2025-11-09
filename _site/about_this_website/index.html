@@ -3,21 +3,29 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ title }}</title>
+    <title>About This Website</title>
     <link rel="stylesheet" href="/css/main.css">
   </head>
   <body>
     <div class="header">
       <img src="/img/logo.png" alt="flowersin" width=500 height=100>
       <br>
-      <a href="{{ "index.md" | inputPathToUrl }}">Home</a> -
-      <a href="{{ "blog/index.md" | inputPathToUrl }}">Blog</a> -
-      <a href="{{ "about_me.md" | inputPathToUrl }}">About Me</a> - 
-      <a href="{{ "about_this_website.md" | inputPathToUrl }}">About This Website</a>
+      <a href="/">Home</a> -
+      <a href="/blog/">Blog</a> -
+      <a href="/about_me/">About Me</a> - 
+      <a href="/about_this_website/">About This Website</a>
       <hr width=70%>
     </div>
     <div class="content">
-      {{ content | safe }}
+      <h1>About This Website</h1>
+<p>Currently, I write all of my &quot;content&quot; in markdown.  Then, I build the site with <a href="">Eleventy</a> locally and published to <a href="https://github.com/flowersin/flowersin.github.io">Github</a> for hosting.  I've done all of the writing by and templates myself, but Eleventy helps automate the process and is so much simpler.  If you haven't looked at it before, I would definitely recommend it over Jekyll or writing your HTML by hand.  I've had personally experience with both, and both SUCK.</p>
+<h2>Future Plans</h2>
+<ul>
+<li>I'd like to move to a different domain, as I prefer my flowersin alias over ems7d4.</li>
+<li>I'd like to add more content about my homelab and linux setups!  At some point, I'd like to create more informative or instructional content as well.</li>
+<li>I'd also love to talk more about music and ditching spotify.</li>
+</ul>
+
       <br>
     </div>
     <div class="footer">

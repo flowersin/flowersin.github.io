@@ -3,21 +3,23 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ title }}</title>
+    <title>Homepage</title>
     <link rel="stylesheet" href="/css/main.css">
   </head>
   <body>
     <div class="header">
       <img src="/img/logo.png" alt="flowersin" width=500 height=100>
       <br>
-      <a href="{{ "index.md" | inputPathToUrl }}">Home</a> -
-      <a href="{{ "blog/index.md" | inputPathToUrl }}">Blog</a> -
-      <a href="{{ "about_me.md" | inputPathToUrl }}">About Me</a> - 
-      <a href="{{ "about_this_website.md" | inputPathToUrl }}">About This Website</a>
+      <a href="/">Home</a> -
+      <a href="/blog/">Blog</a> -
+      <a href="/about_me/">About Me</a> - 
+      <a href="/about_this_website/">About This Website</a>
       <hr width=70%>
     </div>
     <div class="content">
-      {{ content | safe }}
+      <h1>Blog</h1>
+<p>Under Construction</p>
+
       <br>
     </div>
     <div class="footer">
