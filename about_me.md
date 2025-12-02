@@ -29,15 +29,15 @@ I'm working as an IT technician while I finish my AS in Information Technology. 
 
 ## Things I Like
 ### Music
-- Midi Bunny
-- doefriends
-- A.J. Vega
-- Pretty Sick
+- [Midi Bunny](https://midibunny.bandcamp.com/)
+- [doefriends](https://doefriends.bandcamp.com/album/i-want-to-love-again)
+- [A.J. Vega](https://ajvega.bandcamp.com/)
+- [Pretty Sick](https://prettysick.bandcamp.com/music)
 - Pierce the Veil
 - Deftones
 - My Bloody Valentine
-- Heccra
-- Newgrounds Death Rugby
+- [Heccra](https://heccra.bandcamp.com/music)
+- [Newgrounds Death Rugby](https://newgroundsdeathrugby.bandcamp.com/)
 - Car Seat Headrest
 - The Cure
 - ...and so much more!  (I'll have to make a dedicated page at some point...)
