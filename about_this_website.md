@@ -7,4 +7,3 @@ Currently, I write all of my "content" in markdown.  Then, I build the site with
 ## Future Plans
 - I'd like to move to a different domain, as I prefer my flowersin alias over ems7d4.
 - I'd like to add more content about my homelab and linux setups!  At some point, I'd like to create more informative or instructional content as well.
-- I'd also love to talk more about music and ditching spotify.
