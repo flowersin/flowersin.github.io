@@ -11,7 +11,7 @@ title: About Me
 - Name: Ellie Schaefer
 - Pronouns: She/It
 - Sudonyms: flowersin, ems7d4
-- Queer Furry Internet Kittygirl :3
+- Queer Furry Internet Kittything :3
 - Linux Nerd
     - Distro: Primarily Debian Stable nowadays
     - Desktop Enviroment: I'm a huge fan of GNOME
