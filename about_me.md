@@ -10,13 +10,18 @@ title: About Me
 ## Fun Facts!
 - Name: Ellie Schaefer
 - Pronouns: She/It
-- Sudonyms: flowersin, ems7d4
-- Queer Furry Internet Kittything :3
+- I'm not a person! Queer Transgender Internet Furry, treat me like a animal or pet!
+- Full of anxiety and autism, be warned!
 - Linux Nerd
     - Distro: Primarily Debian Stable nowadays
-    - Desktop Enviroment: I'm a huge fan of GNOME
+    - Desktop Enviroment: I'm a huge fan of GNOME.  Sorry, not sorry...
     - I'll make a page about my linux setup at some point
 - I'm a chronic homelabber, I will also make a page dedicated to that at some point...
+
+## Links/Contacts
+- Discord: flowersin
+- Github: [flowersin](https://github.com/flowersin)
+- Bandcamp: [catgirlestrogen](https://bandcamp.com/catgirlestrogen666/)
 
 ## Professional and Education
 I'm working as an IT technician while I finish my AS in Information Technology.  I'm also currently working on my CySA+ with hopes to go into cybersecurity professionally.  I also have the following certifications:
@@ -25,7 +30,6 @@ I'm working as an IT technician while I finish my AS in Information Technology. 
 - Security+
 - Network+
 - A+
-- I'm also Jamf Pro certified, and I might be missing others...
 
 ## Things I Like
 ### Music
@@ -47,7 +51,10 @@ I'm working as an IT technician while I finish my AS in Information Technology. 
 - Balatro
 - Satisfactory
 - Baulder's Gate 3
-- OpenTTD
+- Portal/Portal 2
 
-## Social
-I tend to keep a small internet footprint, I'm not very active on any social media. If you want to reach out I am **flowersin** on discord.  I'm also on <a href="https://bandcamp.com/catgirlestrogen666">bandcamp</a> as well.
+### IRL Stuff
+- Dungeons and Dragons (or other TTRPGs!)
+- Electronics Repair/console modding
+- Photography
+- Cars are cool, I'm too broke to get into working on mine though

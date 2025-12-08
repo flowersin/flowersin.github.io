@@ -8,9 +8,6 @@
     color: white;
     text-align: center;
 }
-.footer {
-    text-align: center;
-}
 body {
     background-color: black;
     color: white;
@@ -39,4 +36,23 @@ h2 {
 
 strong {
     font-weight: bolder;
+}
+
+a:link {
+    color: plum;
+}
+
+a:visited {
+    color: rgb(168, 67, 223);
+}
+
+a:hover {
+    color: plum;
+}
+
+a:active {
+    color: plum;
+}
+.footer {
+    text-align: center;
 }
